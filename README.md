@@ -1,5 +1,4 @@
 # biomath_meningitis_model
-# Bacterial meningitis model
 
 This project models bacteria (B) and the immune response (IL-6, I) in
 the cerebrospinal fluid using two differential equations.
